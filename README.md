@@ -1,32 +1,39 @@
-## Your Name
+<h1 align="center">
+Masako Gray
+</h1>
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+4-5 sentences about  who you/industry you’ve come from, why you are passionate about tech or what sparked 
+you to get into it and where you want to go/get into/learn etc.   -->
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Tricera-Cop**            | A murder mystery, escape room. | React, JSX, Bootstrap. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
+**GymBox and MOB45, London** (NOVEMBER 2019 - PRESENT )  
+_Front of house Receptionist_
+- Reliable to open and close gyms across london ensuring safety of building.
+- Building and maintaining strong relationships with colleagues across the clubs.
+- Identifying and implementing new process behind the desk to ensure admin runs efficiently and defined
+_MOB45 GYM Membership Consultant (sales)_ (SEPTEMBER 2018 – OCTOBER 2019)
+- 
+
 **Company Name** (start-date to end-date)  
 _Your job title_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Any experience relevent to software development, including roles and responsibilities and results achieved in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
+## Skills (3 big skills)
+- collab: 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
--STAR
+-STAR: communication, initiatives, soft or tech skills (collab, brainstorm and bring idea to life)
 -What was the situation/task? (ST)
 
 -How was the skill used?
