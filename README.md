@@ -15,13 +15,18 @@ you to get into it and where you want to go/get into/learn etc.   -->
 
 ## Work Experience
 
-**GymBox and MOB45, London** (NOVEMBER 2019 - PRESENT )  
-_Front of house Receptionist_
-- Reliable to open and close gyms across london ensuring safety of building.
+**GymBox and MOB45, London** <br/>
+_Front of house Receptionist (NOVEMBER 2019 - PRESENT )_
+- Assist club managers and sales team with potential members and sales tours.
 - Building and maintaining strong relationships with colleagues across the clubs.
 - Identifying and implementing new process behind the desk to ensure admin runs efficiently and defined
-_MOB45 GYM Membership Consultant (sales)_ (SEPTEMBER 2018 – OCTOBER 2019)
-- 
+- Reliable to open and close gyms across london ensuring safety of building.
+
+_MOB45 GYM Membership Consultant (sales) (SEPTEMBER 2018 – OCTOBER 2019)_
+- Responsible for admin of membership paperwork, ensuring GDPR process in order
+- Membership database and sales system has been updated and managed.
+- High listening kills to provide best answers for the customer needs.
+- Maintaining transparency and communication with colleagues in office and receptionist for efficient team work.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
