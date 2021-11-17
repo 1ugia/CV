@@ -30,14 +30,21 @@ _MOB45 GYM Membership Consultant (sales) (SEPTEMBER 2018 – OCTOBER 2019)_
 - Maintaining transparency and communication with colleagues in office and receptionist for efficient team work.
 - Follow up on new members to ensure procedures are met to clear any pending work in time of deadline.
 
-**Camm & Hooper, London** (OCTOBER  2014 – AUGUST 2018 )  
+**Camm & Hooper, London** (OCTOBER  2014 – AUGUST 2018)  
 _Caterer, waiter, staff managing and stock count assistant_
 - Assisting manager on running tasks for the events to meet client needs in time.
 - Managing staff for necessary tasks and Worked as part of a team to deliver exceptional service, swiftly under high pressure.
 - Customer service with polite approach.
 <!-- - Any experience relevant to software development, including roles and responsibilities and results achieved in bullet point format. -->
 
+**Space Dance, Tokyo** (AUGUST  2012 – PRESENT)  
+_Dancer, Director assistant, English-Japanese translator_
+- Assisting Director - prepping for performances and collaborating, bringing ideas to life.
+- Translator for every intentional dancer who speaks English and or Japanese.
+- Persistent in developing and molding my dance style for up coming projects.
 
+**Bunka Youchien, London** (SEPTEMBER  2014 – SEPTEMBER 2018)  
+_Dancer, Director assistant, English-Japanese translator_
 
 ## Skills (3 big skills)
 - collab: 
