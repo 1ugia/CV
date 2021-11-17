@@ -100,15 +100,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - EQ curriculum.
 
 #### Trinity Laban Conservatoire of Music and Dance (2009 - 2012)
+- BA hons Dance theatre program <br/>
+_Training in:_
+- Graham/Cunningham/Release/African/Contemporary/Ballet/ Choreography. 
 
-- Dance Theatre BA
-- Grade
-- Other cool stuff
+#### Any other qualifications:
+<!-- That in some arguable way make you a better software developer or well-rounded person -->
+_GymBox_
+- Fire marshal certified - 2020
+- 1st aid trained certified - 10/11/2018 <br/>
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+_CreativEvents_
+- Level 2 Food Safety certified.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+<!-- Any cool stuff that makes you a super part of a software development team -->
