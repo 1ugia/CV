@@ -21,17 +21,23 @@ _Front of house Receptionist (NOVEMBER 2019 - PRESENT )_
 - Building and maintaining strong relationships with colleagues across the clubs.
 - Identifying and implementing new process behind the desk to ensure admin runs efficiently and defined
 - Reliable to open and close gyms across london ensuring safety of building.
+- Responsible for banking, debtors and pending memberships.
 
 _MOB45 GYM Membership Consultant (sales) (SEPTEMBER 2018 – OCTOBER 2019)_
 - Responsible for admin of membership paperwork, ensuring GDPR process in order
-- Membership database and sales system has been updated and managed.
-- High listening kills to provide best answers for the customer needs.
+- Processing membership databases and sales system ensuring they are updated and managed.
+- High listening kills to provide best answers for the customer needs with appropriate info.
 - Maintaining transparency and communication with colleagues in office and receptionist for efficient team work.
+- Follow up on new members to ensure procedures are met to clear any pending work in time of deadline.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Camm & Hooper, London** (OCTOBER  2014 – AUGUST 2018 )  
+_Caterer, waiter, staff managing and stock count assistant_
+- Assisting manager on running tasks for the events to meet client needs in time.
+- Managing staff for necessary tasks and Worked as part of a team to deliver exceptional service, swiftly under high pressure.
+- Customer service with polite approach.
+<!-- - Any experience relevant to software development, including roles and responsibilities and results achieved in bullet point format. -->
 
-- Any experience relevent to software development, including roles and responsibilities and results achieved in bullet point format.
+
 
 ## Skills (3 big skills)
 - collab: 
