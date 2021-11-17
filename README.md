@@ -15,7 +15,7 @@ you to get into it and where you want to go/get into/learn etc.   -->
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Tricera-Cop**            | A murder mystery, escape room. | React, JSX, Bootstrap. |
+| <a href="https://github.com/1ugia/tricera-cops">**Tricera-Cops**</a>| A murder mystery, single player escape room. | React, JSX, CSS, Bootstrap. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 
@@ -67,7 +67,7 @@ _Exhibition centre and festival bar manager_
 - Running solo and teaming on stationary and mobile stalls catering Oysters, Espresso coffee, Alcohol and other fresh food products.
 - Support and helping other bar managers on site to solve problem or failure of mechanisms.
 
-## Skills (3 big skills)
+<!-- ## Skills (3 big skills)
 - collaboration: 
 Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -79,7 +79,7 @@ Consider skills relevant to software development. Then consider your best skills
 
 -What did you do? (action)
 
--What was the result?
+-What was the result? -->
 
 
 <!-- #### This Skill
@@ -99,32 +99,37 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (MAY 2021 - SEPT 2021)
+### Makers Academy (MAY 2021 - SEPT 2021)
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below:  -->
-- OOP, TDD, MVC, DDD.
-- Agile/XP.
-- Ruby, Rails, JavaScript, React, Node.
-- RSpec, Jasmine, Jest, Capybara.
-- EQ curriculum.
+- Test Driven Development (TDD) 
+- Model, View, Controller process (MVC)
+- DDD, OOP. 
+- Agile/Extreme Programming (XP).
+- Pair programming.
+- Ruby, Rails, React, Node, HTML, CSS, JavaScript, SQL.
+- RSpec, Jasmine, Jest, Capybara, Sinatra
+- EQ (Holistic) curriculum.
 
-#### Trinity Laban Conservatoire of Music and Dance (2009 - 2012)
+### Trinity Laban Conservatoire of Music and Dance (2009 - 2012)
 - BA hons Dance theatre program <br/>
 _Training in:_
 - Graham/Cunningham/Release/African/Contemporary/Ballet/ Choreography. 
 
-#### Any other qualifications:
+<!-- Other qualifications: -->
 <!-- That in some arguable way make you a better software developer or well-rounded person -->
-_GymBox_
+<!-- _GymBox_
 - Fire marshal certified - 2020
 - 1st aid trained certified - 10/11/2018 <br/>
 
 _CreativEvents_
-- Level 2 Food Safety certified.
+- Level 2 Food Safety certified. -->
 
 ## Hobbies
 <!-- Any cool stuff that makes you a super part of a software development team -->
 - Dancing
 - Illustration Drawing
 - Camping
+- Concert
+- Video Gaming
