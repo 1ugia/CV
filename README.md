@@ -35,6 +35,7 @@ _Caterer, waiter, staff managing and stock count assistant_
 - Assisting manager on running tasks for the events to meet client needs in time.
 - Managing staff for necessary tasks and Worked as part of a team to deliver exceptional service, swiftly under high pressure.
 - Customer service with polite approach.
+- Prepared large venues in limited time to a high standard.
 <!-- - Any experience relevant to software development, including roles and responsibilities and results achieved in bullet point format. -->
 
 **Space Dance, Tokyo** (AUGUST  2012 – PRESENT)  
@@ -44,7 +45,11 @@ _Dancer, Director assistant, English-Japanese translator_
 - Persistent in developing and molding my dance style for up coming projects.
 
 **Bunka Youchien, London** (SEPTEMBER  2014 – SEPTEMBER 2018)  
-_Dancer, Director assistant, English-Japanese translator_
+_Ballet Teacher_
+- Educating ballet to children aged 3 – 6 years old in Japanese.
+- Finding ways to stimulate the growth of their brain and memory through movement and coordination with music.
+- Be creative and bring dancing objects for class to enhance their movement - home made ribbons, tiaras etc.
+- Prepping for class in advance, executing clear presentation for lessons.
 
 ## Skills (3 big skills)
 - collab: 
