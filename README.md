@@ -11,12 +11,11 @@ Masako Gray
 4-5 sentences about  who you/industry you’ve come from, why you are passionate about tech or what sparked 
 you to get into it and where you want to go/get into/learn etc.   -->
 
-As a contemporary dancer and a Makers graduate, looking through a new way of creativity, I was struck by how free and expressive coding is, allowing to bring art into life through different forms. 
+As a contemporary dancer and a Makers graduate, looking for a new to share my creativity, I was truck by how free and expressive coding is, and how it allows it to bring art into life through different forms.
 
-At Makers Academy, I learnt key skills and best coding practices, including object-oriented programming, test-driven development, pair programming, and the ability to efficiently learn new programming languages. 
+I feel continuously inspired by the warmth of the coding community, and how it allows me to practice and develop my mindset - I feel like I belong here.
 
-I feel continuously aspired by the coding community where you get to practice growth mindset, the warmth of support and how welcoming - I feel a sense of where I belong.
-
+I’m really excited to build a new career in this industry where I get to build my skills on problem-solving, pair-programming, develop and expressing my creativity.
 
 ## Projects
 
@@ -38,7 +37,7 @@ _Front of house Receptionist (NOVEMBER 2019 - PRESENT )_
 _MOB45 GYM Membership Consultant (sales) (SEPTEMBER 2018 – OCTOBER 2019)_
 - Responsible for admin of membership paperwork, ensuring GDPR process in order
 - Processing membership databases and sales system ensuring they are updated and managed.
-- High listening kills to provide best answers for the customer needs with appropriate info.
+- High listening skills to provide best answers for the customer needs with appropriate info.
 - Maintaining transparency and communication with colleagues in office and receptionist for efficient team work.
 - Follow up on new members to ensure procedures are met to clear any pending work in time of deadline.
 -----------------------------------------------------------
@@ -47,24 +46,24 @@ _MOB45 GYM Membership Consultant (sales) (SEPTEMBER 2018 – OCTOBER 2019)_
 _Caterer, waiter, staff managing and stock count assistant_
 - Assisting manager on running tasks for the events to meet client needs in time.
 - Managing staff for necessary tasks and Worked as part of a team to deliver exceptional service, swiftly under high pressure.
-- Customer service with polite approach.
+- Warm, empathetic Customer service.
 - Prepared large venues in limited time to a high standard.
 <!-- - Any experience relevant to software development, including roles and responsibilities and results achieved in bullet point format. -->
 -----------------------------------------------------------
 
 **Space Dance, Tokyo** (AUGUST  2012 – PRESENT)  
 _Dancer, Director assistant, English-Japanese translator_
-- Assisting Director - prepping for performances and collaborating, bringing ideas to life.
-- Translator for every intentional dancer who speaks English and or Japanese.
-- Persistent in developing and molding my dance style for upcoming projects.
+- Assisting Director - preparing for performances and collaborating, bringing ideas to life.
+- Translator for every international dancer who speaks English and or Japanese.
+- Persistent in developing and molding my dance style for upcoming projects, committed to my practice..
 -----------------------------------------------------------
 
 **Bunka Youchien, London** (SEPTEMBER  2014 – SEPTEMBER 2018)  
 _Ballet Teacher_
 - Educating ballet to children aged 3 – 6 years old in Japanese.
 - Finding ways to stimulate the growth of their brain and memory through movement and coordination with music.
-- Be creative and bring dancing objects for class to enhance their movement - homemade ribbons, tiaras etc.
-- Prepping for class in advance, executing clear presentation for lessons.
+- Be creative and bring dancing objects for class to enhance their movement - home made ribbons, tiaras etc.
+- Preparing for class in advance, executing clear presentation for lessons.
 -----------------------------------------------------------
 
 **CreativEvents, Excel, Olympia, Earls Court, festivals** (JULY 2012 - AUGUST 2014)  
@@ -137,5 +136,4 @@ _CreativEvents_
 - Dancing
 - Illustration Drawing
 - Camping
-- Concert
-- Video Gaming
+- Video Gaming: current favourite – Horizon, Zero Dawn
