@@ -7,18 +7,20 @@ Masako Gray
 [Work Exp](#work-experience) |
 [Education](#education) |
 [Hobbies & Interests](#hobbies) 
+
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 4-5 sentences about  who you/industry you’ve come from, why you are passionate about tech or what sparked 
 you to get into it and where you want to go/get into/learn etc.   -->
+
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | <a href="https://github.com/1ugia/tricera-cops">**Tricera-Cops**</a>| A murder mystery, single player escape room. | React, JSX, CSS, Bootstrap. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
-
+| <a href="https://github.com/1ugia/bankTech">**Bank Tech** | A command-line banking programme. | JavaScript, Jest.|
+| <a href="https://github.com/1ugia/Boris_bike">**Boris Bike** | A Command-line program, mimic of a Santander bike stations. | Ruby, Rspec. |
 
 ## Work Experience
 **GymBox and MOB45, London** <br/>
