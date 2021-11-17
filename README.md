@@ -51,6 +51,12 @@ _Ballet Teacher_
 - Be creative and bring dancing objects for class to enhance their movement - home made ribbons, tiaras etc.
 - Prepping for class in advance, executing clear presentation for lessons.
 
+**Creativevents, Excel, Olympia, Earls Court, festivals** (JULY 2012 - AUGUST 2014)  
+_Exhibition centre and festival bar manager_
+- Managing bars of 4 - 20 staff at prime event and sites such as Olympic Stadium, Excel, Earl’s Court and exterior festival locations.
+- Running solo and teaming on stationary and mobile stalls catering Oysters, Espresso coffee, Alcohol and other fresh food products.
+- Support and helping other bar managers on site to solve problem or failure of mechanisms.
+
 ## Skills (3 big skills)
 - collab: 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
