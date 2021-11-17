@@ -2,6 +2,11 @@
 Masako Gray
 </h1>
 
+[Projects](#projects) |
+[Tech](#technical-skills) |
+[Work Exp](#work-experience) |
+[Education](#education) |
+[Hobbies & Interests](#hobbies) 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 4-5 sentences about  who you/industry you’ve come from, why you are passionate about tech or what sparked 
 you to get into it and where you want to go/get into/learn etc.   -->
@@ -13,8 +18,9 @@ you to get into it and where you want to go/get into/learn etc.   -->
 | **Tricera-Cop**            | A murder mystery, escape room. | React, JSX, Bootstrap. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
 
+
+## Work Experience
 **GymBox and MOB45, London** <br/>
 _Front of house Receptionist (NOVEMBER 2019 - PRESENT )_
 - Assist club managers and sales team with potential members and sales tours.
@@ -22,13 +28,14 @@ _Front of house Receptionist (NOVEMBER 2019 - PRESENT )_
 - Identifying and implementing new process behind the desk to ensure admin runs efficiently and defined
 - Reliable to open and close gyms across london ensuring safety of building.
 - Responsible for banking, debtors and pending memberships.
-
+-----------------------------------------------------------
 _MOB45 GYM Membership Consultant (sales) (SEPTEMBER 2018 – OCTOBER 2019)_
 - Responsible for admin of membership paperwork, ensuring GDPR process in order
 - Processing membership databases and sales system ensuring they are updated and managed.
 - High listening kills to provide best answers for the customer needs with appropriate info.
 - Maintaining transparency and communication with colleagues in office and receptionist for efficient team work.
 - Follow up on new members to ensure procedures are met to clear any pending work in time of deadline.
+-----------------------------------------------------------
 
 **Camm & Hooper, London** (OCTOBER  2014 – AUGUST 2018)  
 _Caterer, waiter, staff managing and stock count assistant_
@@ -37,12 +44,14 @@ _Caterer, waiter, staff managing and stock count assistant_
 - Customer service with polite approach.
 - Prepared large venues in limited time to a high standard.
 <!-- - Any experience relevant to software development, including roles and responsibilities and results achieved in bullet point format. -->
+-----------------------------------------------------------
 
 **Space Dance, Tokyo** (AUGUST  2012 – PRESENT)  
 _Dancer, Director assistant, English-Japanese translator_
 - Assisting Director - prepping for performances and collaborating, bringing ideas to life.
 - Translator for every intentional dancer who speaks English and or Japanese.
 - Persistent in developing and molding my dance style for up coming projects.
+-----------------------------------------------------------
 
 **Bunka Youchien, London** (SEPTEMBER  2014 – SEPTEMBER 2018)  
 _Ballet Teacher_
@@ -50,6 +59,7 @@ _Ballet Teacher_
 - Finding ways to stimulate the growth of their brain and memory through movement and coordination with music.
 - Be creative and bring dancing objects for class to enhance their movement - home made ribbons, tiaras etc.
 - Prepping for class in advance, executing clear presentation for lessons.
+-----------------------------------------------------------
 
 **CreativEvents, Excel, Olympia, Earls Court, festivals** (JULY 2012 - AUGUST 2014)  
 _Exhibition centre and festival bar manager_
@@ -114,5 +124,7 @@ _CreativEvents_
 - Level 2 Food Safety certified.
 
 ## Hobbies
-
 <!-- Any cool stuff that makes you a super part of a software development team -->
+- Dancing
+- Illustration Drawing
+- Camping
