@@ -12,6 +12,11 @@ Masako Gray
 4-5 sentences about  who you/industry you’ve come from, why you are passionate about tech or what sparked 
 you to get into it and where you want to go/get into/learn etc.   -->
 
+As a contemporary dancer and a Makers graduate, looking through a new way of creativity, I was struck by how free and expressive coding is, allowing to bring art into life through different forms. 
+
+At Makers Academy, I learnt key skills and best coding practices, including object-oriented programming, test-driven development, pair programming, and the ability to efficiently learn new programming languages. 
+
+I feel continuously aspired by the coding community where you get to practice growth mindset, the warmth of support and how welcoming - I feel a sense of where I belong.
 
 
 ## Projects
@@ -52,14 +57,14 @@ _Caterer, waiter, staff managing and stock count assistant_
 _Dancer, Director assistant, English-Japanese translator_
 - Assisting Director - prepping for performances and collaborating, bringing ideas to life.
 - Translator for every intentional dancer who speaks English and or Japanese.
-- Persistent in developing and molding my dance style for up coming projects.
+- Persistent in developing and molding my dance style for upcoming projects.
 -----------------------------------------------------------
 
 **Bunka Youchien, London** (SEPTEMBER  2014 – SEPTEMBER 2018)  
 _Ballet Teacher_
 - Educating ballet to children aged 3 – 6 years old in Japanese.
 - Finding ways to stimulate the growth of their brain and memory through movement and coordination with music.
-- Be creative and bring dancing objects for class to enhance their movement - home made ribbons, tiaras etc.
+- Be creative and bring dancing objects for class to enhance their movement - homemade ribbons, tiaras etc.
 - Prepping for class in advance, executing clear presentation for lessons.
 -----------------------------------------------------------
 
