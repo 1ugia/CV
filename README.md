@@ -51,18 +51,18 @@ _Ballet Teacher_
 - Be creative and bring dancing objects for class to enhance their movement - home made ribbons, tiaras etc.
 - Prepping for class in advance, executing clear presentation for lessons.
 
-**Creativevents, Excel, Olympia, Earls Court, festivals** (JULY 2012 - AUGUST 2014)  
+**CreativEvents, Excel, Olympia, Earls Court, festivals** (JULY 2012 - AUGUST 2014)  
 _Exhibition centre and festival bar manager_
 - Managing bars of 4 - 20 staff at prime event and sites such as Olympic Stadium, Excel, Earl’s Court and exterior festival locations.
 - Running solo and teaming on stationary and mobile stalls catering Oysters, Espresso coffee, Alcohol and other fresh food products.
 - Support and helping other bar managers on site to solve problem or failure of mechanisms.
 
 ## Skills (3 big skills)
-- collab: 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- collaboration: 
+Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
--STAR: communication, initiatives, soft or tech skills (collab, brainstorm and bring idea to life)
+-STAR: communication, initiatives, soft or tech skills (collaboration, brainstorm and bring idea to life)
 -What was the situation/task? (ST)
 
 -How was the skill used?
@@ -72,7 +72,7 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+<!-- #### This Skill
 
 - Experience
 - Achievements
@@ -85,22 +85,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (MAY 2021 - SEPT 2021)
+<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+- e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
+- you might also mention aspects some other skills/knowledge listed below:  -->
+- OOP, TDD, MVC, DDD.
+- Agile/XP.
+- Ruby, Rails, JavaScript, React, Node.
+- RSpec, Jasmine, Jest, Capybara.
+- EQ curriculum.
 
-#### Your University / College (start_date to end_date)
+#### Trinity Laban Conservatoire of Music and Dance (2009 - 2012)
 
-- Subject, any specialisms
+- Dance Theatre BA
 - Grade
 - Other cool stuff
 
