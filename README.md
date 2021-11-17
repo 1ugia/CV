@@ -3,7 +3,6 @@ Masako Gray
 </h1>
 
 [Projects](#projects) |
-[Tech](#technical-skills) |
 [Work Exp](#work-experience) |
 [Education](#education) |
 [Hobbies & Interests](#hobbies) 
